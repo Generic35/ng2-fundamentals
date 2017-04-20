@@ -10,7 +10,6 @@ import { Component } from '@angular/core';
     </div>
     `
 })
-// test change
 export class EventsListComponent {
     event = {
         id: 1,
